@@ -1,0 +1,1 @@
+C:\CUDA\blur_CUDA1\x64\Debug\blur_CUDA1.exe

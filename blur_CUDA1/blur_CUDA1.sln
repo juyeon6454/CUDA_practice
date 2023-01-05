@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blur_CUDA1", "blur_CUDA1.vcxproj", "{22FAF3DB-A7BA-40FE-817F-A12BE68F7434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FAF3DB-A7BA-40FE-817F-A12BE68F7434}.Debug|x64.ActiveCfg = Debug|x64
+		{22FAF3DB-A7BA-40FE-817F-A12BE68F7434}.Debug|x64.Build.0 = Debug|x64
+		{22FAF3DB-A7BA-40FE-817F-A12BE68F7434}.Release|x64.ActiveCfg = Release|x64
+		{22FAF3DB-A7BA-40FE-817F-A12BE68F7434}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E672D7C3-4F10-4050-9159-EF596923B663}
+	EndGlobalSection
+EndGlobal
